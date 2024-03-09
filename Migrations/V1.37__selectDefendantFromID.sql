@@ -1,0 +1,11 @@
+CREATE PROCEDURE [dbo].[selectDefendantFromID](
+	@ID INT
+)
+AS
+BEGIN
+	SET NOCOUNT ON
+	SELECT *
+	FROM Defendant
+	WHERE ID = @ID
+	RETURN
+END

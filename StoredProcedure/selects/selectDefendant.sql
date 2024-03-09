@@ -1,0 +1,6 @@
+CREATE PROCEDURE [dbo].[selectDefendant]
+AS
+BEGIN
+	SET NOCOUNT ON
+	SELECT * FROM Defendant
+END

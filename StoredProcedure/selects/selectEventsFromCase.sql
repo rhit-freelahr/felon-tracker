@@ -1,0 +1,10 @@
+CREATE PROCEDURE selectEventsFromCase(
+	@ID INT
+)
+AS
+BEGIN
+	SET NOCOUNT ON
+	SELECT *
+	FROM [Event]
+	WHERE CaseID = @ID
+END

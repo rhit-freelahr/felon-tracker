@@ -1,0 +1,2299 @@
+[
+    {
+        "Case": {
+            "CaseNumber": "62C01-2402-IF-000085",
+            "Status": "Pending",
+            "Name": "State of Indiana v. Tylana Crowe",
+            "Type": "IF - Infraction",
+            "DateFiled": "02/12/2024"
+        },
+        "Defendant": {
+            "Address": "811 E 1st AveHuntingburg, IN 47542",
+            "Name": "Crowe, Tylana",
+            "Description": "Female, 5' 6\""
+        },
+        "Plaintiff": {
+            "Title": "State of Indiana"
+        },
+        "Charge": [
+            {
+                "Name": "9-21-5-2(a)/IFC: Speeding",
+                "Degree": "IFC",
+                "Statute": "9-21-5-2(a)",
+                "Date": "02/08/2024"
+            }
+        ],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "02/12/2024",
+                "Description": null
+            },
+            {
+                "Title": "Case Filed Electronically",
+                "DateFiled": "02/12/2024",
+                "Description": "Added By EFile Manager"
+            },
+            {
+                "Title": "Traffic Citation Filed",
+                "DateFiled": "02/12/2024",
+                "Description": "Complaint and Summons"
+            }
+        ],
+        "Court": {
+            "Name": "Perry Circuit Court",
+            "Judge": null
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "30D01-2308-MI-001468",
+            "Status": "Pending",
+            "Name": "Buckeye Corrugated, Inc. v. Vodka Squeeze, LLC",
+            "Type": "MI - Miscellaneous Civil",
+            "DateFiled": "08/24/2023"
+        },
+        "Defendant": {
+            "Address": "P.O. BOX 162Mc Cordsville, IN 46055",
+            "Name": "Vodka Squeeze, LLC",
+            "Description": null
+        },
+        "Plaintiff": {
+            "Name": "Buckeye Corrugated, Inc.",
+            "Address": "C/O DAVID PATTON, ATTY211 N. PENNSYLVANIA STONE INDIANA SQUARE, SUITE 1800Indianapolis, IN 46204"
+        },
+        "Charge": [],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "08/24/2023",
+                "Description": null
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "08/25/2023",
+                "Description": "Appearances of CDL and MEH"
+            },
+            {
+                "Title": "Petition to Enforce/Modify Foreign Support Order Filed",
+                "DateFiled": "08/25/2023",
+                "Description": "Notice of Filing of Foreign Judgment"
+            },
+            {
+                "Title": "Administrative Event",
+                "DateFiled": "08/30/2023",
+                "Description": "Notice of Filing of Foreign Judgment Reviewed. DJD"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "08/31/2023",
+                "Description": "Administrative Event ---- 8/30/2023 : Christopher D. Lee;McKenzie Elise Hutchinson"
+            },
+            {
+                "Title": "Notice to Court Filed",
+                "DateFiled": "09/14/2023",
+                "Description": "Submission of Proof of Mailing"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "09/15/2023",
+                "Description": "Notice to Court Filed ---- 9/14/2023 : Christopher D. Lee;McKenzie Elise Hutchinson"
+            },
+            {
+                "Title": "Administrative Event",
+                "DateFiled": "09/15/2023",
+                "Description": "Submission of Proof of Mailing reviewed. DJD/MNK"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "09/16/2023",
+                "Description": "Administrative Event ---- 9/15/2023 : Christopher D. Lee;McKenzie Elise Hutchinson"
+            },
+            {
+                "Title": "Motion for Proceedings Supplemental Filed",
+                "DateFiled": "09/22/2023",
+                "Description": "Verified Motion for Proceedings Supplemental"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "09/25/2023",
+                "Description": "Proceedings Supplemental scheduled for 10/27/2023 at 8:30 AM."
+            },
+            {
+                "Title": "Order to Appear",
+                "DateFiled": "09/25/2023",
+                "Description": "DJD/TMP"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "09/26/2023",
+                "Description": "Hearing Scheduling Activity ---- 9/25/2023 : Christopher D. Lee;McKenzie Elise Hutchinson\nOrder to Appear ---- 9/25/2023 : Christopher D. Lee;McKenzie Elise Hutchinson"
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "10/24/2023",
+                "Description": "Appearance on behalf of Buckeye Corrugated, Inc."
+            },
+            {
+                "Title": "Service Returned Served (E-Filing)",
+                "DateFiled": "10/24/2023",
+                "Description": "Notice of Service"
+            },
+            {
+                "Title": "Proceedings Supplemental",
+                "DateFiled": "10/27/2023",
+                "Description": null
+            },
+            {
+                "Title": "Hearing Journal Entry",
+                "DateFiled": "10/27/2023",
+                "Description": "Plaintiff appears by counsel.  Defendant appears by owner/representative Scott Templi.  Testimony is taken.  Court advises parties they can talk outside of Court and file an agreement if an agreement is reached.  DJD/TMP"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "10/28/2023",
+                "Description": "Hearing Journal Entry ---- 10/27/2023 : Christopher D. Lee;David William Patton;McKenzie Elise Hutchinson"
+            },
+            {
+                "Title": "Motion for Proceedings Supplemental Filed",
+                "DateFiled": "11/08/2023",
+                "Description": "Verified Motion for Proceedings Supplemental"
+            },
+            {
+                "Title": "Order Granting Motion to Answer Interrogatories",
+                "DateFiled": "11/14/2023",
+                "Description": "DJD/TMP"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "11/15/2023",
+                "Description": "Order Granting Motion to Answer Interrogatories ---- 11/14/2023 : Christopher D. Lee;David William Patton;McKenzie Elise Hutchinson"
+            },
+            {
+                "Title": "Answer to Interrogatories Filed",
+                "DateFiled": "12/08/2023",
+                "Description": null
+            },
+            {
+                "Title": "Motion for Proceedings Supplemental Filed",
+                "DateFiled": "01/26/2024",
+                "Description": "Verified Motion for Proceedings Supplemental"
+            }
+        ],
+        "Court": {
+            "Name": "Hancock Superior Court 1",
+            "Judge": "Davis, Donald J."
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "49D02-2306-MI-024614",
+            "Status": "Pending",
+            "Name": "ERIKA HIATT v. EARL DENNING",
+            "Type": "MI - Miscellaneous Civil",
+            "DateFiled": "06/21/2023"
+        },
+        "Defendant": {
+            "Address": "891 W 77th Street South DriveIndianapolis, IN 46260",
+            "Name": "DENNING, EARL",
+            "Description": null
+        },
+        "Plaintiff": {
+            "Name": "HIATT, ERIKA",
+            "Address": "101 W. Ohio StreetSuite 1700Indianapolis, IN 46204"
+        },
+        "Charge": [],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "06/21/2023",
+                "Description": null
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "06/21/2023",
+                "Description": "Appearance"
+            },
+            {
+                "Title": "Subpoena/Summons Filed",
+                "DateFiled": "06/21/2023",
+                "Description": "Summons"
+            },
+            {
+                "Title": "Complaint/Equivalent Pleading Filed",
+                "DateFiled": "06/21/2023",
+                "Description": "Complaint"
+            },
+            {
+                "Title": "Service Issued",
+                "DateFiled": "06/26/2023",
+                "Description": "summs"
+            },
+            {
+                "Title": "Service Returned Served",
+                "DateFiled": "07/06/2023",
+                "Description": "COPY LEFT AT 891 W 77TH ST S DRIVE 46260 AND MAILED A COPY - 27920"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "01/02/2024",
+                "Description": "Hearing on Motion for 41(E) Dismissal scheduled for 02/16/2024 at 8:30 AM."
+            },
+            {
+                "Title": "Automated Paper Notice Issued to Parties",
+                "DateFiled": "01/03/2024",
+                "Description": "Hearing Scheduling Activity ---- 1/2/2024 : EARL  DENNING"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "01/03/2024",
+                "Description": "Hearing Scheduling Activity ---- 1/2/2024 : Jeffrey E Ramsey"
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "01/19/2024",
+                "Description": "Appearances of JBS &amp; MEH for Defendant Earl Denning"
+            },
+            {
+                "Title": "Motion for Enlargement of Time Filed",
+                "DateFiled": "01/19/2024",
+                "Description": "Defendant's Motion for Enlargement of Time to Respond to Plaintiff's Complaint"
+            },
+            {
+                "Title": "Order Granting Motion for Enlargement of Time",
+                "DateFiled": "01/19/2024",
+                "Description": null
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "01/19/2024",
+                "Description": "Hearing on Motion for 41(E) Dismissal scheduled for 02/16/2024 at 8:30 AM was cancelled. Reason: Judicial Action."
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "01/20/2024",
+                "Description": "Order Granting Motion for Enlargement of Time ---- 1/19/2024 : Jeffrey E Ramsey;McKenzie Elise Hutchinson;Jonathon Bradley Snider\nHearing Scheduling Activity ---- 1/19/2024 : Jeffrey E Ramsey;McKenzie Elise Hutchinson;Jonathon Bradley Snider"
+            },
+            {
+                "Title": "Hearing on Motion for 41(E) Dismissal",
+                "DateFiled": "02/16/2024",
+                "Description": null
+            }
+        ],
+        "Court": {
+            "Name": "Marion Superior Court 2",
+            "Judge": "Oakes, Timothy Wayne"
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "06C01-2306-PL-000787",
+            "Status": "Decided",
+            "Name": "City of Lebanon, Indiana v. Gregory Martin",
+            "Type": "PL - Civil Plenary",
+            "DateFiled": "06/07/2023"
+        },
+        "Defendant": {
+            "Address": "1105 Clifford CourtLebanon, IN 46052",
+            "Name": "Martin, Gregory",
+            "Description": null
+        },
+        "Plaintiff": {
+            "Name": "City of Lebanon, Indiana",
+            "Address": null
+        },
+        "Charge": [],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "06/07/2023",
+                "Description": null
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "06/07/2023",
+                "Description": "Appearances of RSS_ JBS_ and MEH (Martin)"
+            },
+            {
+                "Title": "Complaint/Equivalent Pleading Filed",
+                "DateFiled": "06/07/2023",
+                "Description": "Complaint (Martin)"
+            },
+            {
+                "Title": "Subpoena/Summons Issued",
+                "DateFiled": "06/07/2023",
+                "Description": "Summons to Gregory Martin"
+            },
+            {
+                "Title": "Notice to Court Filed",
+                "DateFiled": "08/21/2023",
+                "Description": "Notice of Voluntary Dismissal"
+            },
+            {
+                "Title": "Order of Dismissal",
+                "DateFiled": "08/22/2023",
+                "Description": "Without Prejudice"
+            },
+            {
+                "Title": "Automated Paper Notice Issued to Parties",
+                "DateFiled": "08/23/2023",
+                "Description": "Order of Dismissal ---- 8/22/2023 : Gregory  Martin"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "08/23/2023",
+                "Description": "Order of Dismissal ---- 8/22/2023 : McKenzie Elise Hutchinson;Robert Scott Schein;Jonathon Bradley Snider"
+            }
+        ],
+        "Court": {
+            "Name": "Boone Circuit Court",
+            "Judge": "Kincaid, Matthew C"
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "49K07-2308-SC-002565",
+            "Status": "Decided",
+            "Name": "Bounce Back Physical Therapy, LLC v.Rhonda Page",
+            "Type": "SC - Small Claims",
+            "DateFiled": "08/03/2023"
+        },
+        "Defendant": {
+            "Address": "5408 Alameda RoadIndianapolis, IN 46228",
+            "Name": "Page, Rhonda",
+            "Description": null
+        },
+        "Plaintiff": {
+            "Name": "Bounce Back Physical Therapy, LLC",
+            "Address": "757 E. 86th StreetIndianapolis, IN 46240"
+        },
+        "Charge": [],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "08/03/2023",
+                "Description": null
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "08/03/2023",
+                "Description": "Appearance"
+            },
+            {
+                "Title": "Notice of Claim Filed",
+                "DateFiled": "08/03/2023",
+                "Description": "Notice of Claim"
+            },
+            {
+                "Title": "Affidavit Filed",
+                "DateFiled": "08/03/2023",
+                "Description": "Affidavit of Debt"
+            },
+            {
+                "Title": "Administrative Event",
+                "DateFiled": "08/03/2023",
+                "Description": "An updated notice of claim needs to be filed. Washington township specific forms can be found at washtwp.org"
+            },
+            {
+                "Title": "Notice of Claim Filed",
+                "DateFiled": "08/07/2023",
+                "Description": "AMENDED NOTICE OF CLAIM AND SUMMONS"
+            },
+            {
+                "Title": "Affidavit Filed",
+                "DateFiled": "08/07/2023",
+                "Description": "Affidavit of Debt"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "08/07/2023",
+                "Description": "First Hearing scheduled for 09/26/2023 at 1:00 PM."
+            },
+            {
+                "Title": "Certificate of Issuance of Summons",
+                "DateFiled": "08/07/2023",
+                "Description": "CERTIFICATE OF ISSUANCE OF SUMMONS"
+            },
+            {
+                "Title": "Automated Paper Notice Issued to Parties",
+                "DateFiled": "08/08/2023",
+                "Description": "Hearing Scheduling Activity ---- 8/7/2023 : Rhonda  Page"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "08/08/2023",
+                "Description": "Hearing Scheduling Activity ---- 8/7/2023 : Andrew Robert Duncan"
+            },
+            {
+                "Title": "Motion for Continuance Filed",
+                "DateFiled": "08/09/2023",
+                "Description": "MOTION TO CONTINUE HEARING"
+            },
+            {
+                "Title": "Order Granting Motion for Continuance",
+                "DateFiled": "08/10/2023",
+                "Description": "Sept 26 initial hearing is re-set to October 10, 2023 at 9:00 am on Plaintiff's motion"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "08/10/2023",
+                "Description": "First Hearing originally scheduled on 09/26/2023 at 1:00 PM was rescheduled to 10/10/2023 at 9:00 AM. Reason: By Request."
+            },
+            {
+                "Title": "Automated Paper Notice Issued to Parties",
+                "DateFiled": "08/11/2023",
+                "Description": "Order Granting Motion for Continuance ---- 8/10/2023 : Rhonda  Page"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "08/11/2023",
+                "Description": "Order Granting Motion for Continuance ---- 8/10/2023 : Andrew Robert Duncan"
+            },
+            {
+                "Title": "Notice Issued",
+                "DateFiled": "09/25/2023",
+                "Description": "The upcoming hearing will be conducted in person. A written request to participate by telephone can be obtained on the court website https://washtwp.org/sccourtclaims.html or at the court office.  The written request to participate by phone must be submitted two (2) business days prior to hearing if submitted by FAX (317-327-8190), Email (washingtontownship.smallclaims@gmail.com) or Efile.  The written request to participate by phone may be submitted at the court office any time prior to the hearing."
+            },
+            {
+                "Title": "Automated Paper Notice Issued to Parties",
+                "DateFiled": "09/26/2023",
+                "Description": "Notice Issued ---- 9/25/2023 : Rhonda  Page"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "09/26/2023",
+                "Description": "Notice Issued ---- 9/25/2023 : Andrew Robert Duncan"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "09/26/2023",
+                "Description": "First Hearing originally scheduled on 10/10/2023 at 9:00 AM was rescheduled to 10/24/2023 at 8:30 AM. Reason: Court's Own Motion."
+            },
+            {
+                "Title": "Notice Issued",
+                "DateFiled": "10/10/2023",
+                "Description": "The upcoming hearing will be conducted in person. A written request to participate by telephone can be obtained on the court website https://washtwp.org/sccourtclaims.html or at the court office.  A written request to participate by phone must be submitted two (2) business days prior to hearing if submitted by FAX (317-327-8190), Email (washingtontownship.smallclaims@gmail.com) or Efile.  A written request to participate by phone may be submitted at the court office any time prior to the hearing."
+            },
+            {
+                "Title": "Automated Paper Notice Issued to Parties",
+                "DateFiled": "10/11/2023",
+                "Description": "Notice Issued ---- 10/10/2023 : Rhonda  Page"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "10/11/2023",
+                "Description": "Notice Issued ---- 10/10/2023 : Andrew Robert Duncan"
+            },
+            {
+                "Title": "Motion Filed",
+                "DateFiled": "10/13/2023",
+                "Description": "REQUEST TO PARTICIPATE BY TELEPHONE"
+            },
+            {
+                "Title": "Notice Filed",
+                "DateFiled": "10/20/2023",
+                "Description": "Notice to Court Regarding Attorney Availability"
+            },
+            {
+                "Title": "First Hearing",
+                "DateFiled": "10/24/2023",
+                "Description": null
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "10/25/2023",
+                "Description": "Hearing scheduled for 11/28/2023 at 8:30 AM."
+            },
+            {
+                "Title": "Order Issued",
+                "DateFiled": "10/25/2023",
+                "Description": "default under advisement"
+            },
+            {
+                "Title": "Automated Paper Notice Issued to Parties",
+                "DateFiled": "10/26/2023",
+                "Description": "Order Issued ---- 10/25/2023 : Rhonda  Page"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "10/26/2023",
+                "Description": "Order Issued ---- 10/25/2023 : Andrew Robert Duncan"
+            },
+            {
+                "Title": "Notice Filed",
+                "DateFiled": "10/26/2023",
+                "Description": "Notice of Return of Service"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "10/27/2023",
+                "Description": "Hearing originally scheduled on 11/28/2023 at 8:30 AM was rescheduled to 11/28/2023 at 8:30 AM. Reason: Data Entry Error."
+            },
+            {
+                "Title": "Notice Issued",
+                "DateFiled": "11/13/2023",
+                "Description": "The upcoming hearing will be conducted in person. A written request to participate by telephone can be obtained on the court website https://washtwp.org/sccourtclaims.html or at the court office.  A written request to participate by phone must be submitted two (2) business days prior to hearing if submitted by FAX (317-327-8190), Email (washingtontownship.smallclaims@gmail.com) or Efile.  A written request to participate by phone may be submitted at the court office any time prior to the hearing."
+            },
+            {
+                "Title": "Automated Paper Notice Issued to Parties",
+                "DateFiled": "11/14/2023",
+                "Description": "Notice Issued ---- 11/13/2023 : Rhonda  Page"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "11/14/2023",
+                "Description": "Notice Issued ---- 11/13/2023 : Andrew Robert Duncan"
+            },
+            {
+                "Title": "Motion Filed",
+                "DateFiled": "11/15/2023",
+                "Description": "REQUEST TO PARTICIPATE BY TELEPHONE"
+            },
+            {
+                "Title": "Hearing",
+                "DateFiled": "11/28/2023",
+                "Description": null
+            },
+            {
+                "Title": "Motion Filed",
+                "DateFiled": "11/29/2023",
+                "Description": "Notice of Compliance"
+            },
+            {
+                "Title": "Order Issued",
+                "DateFiled": "12/06/2023",
+                "Description": "Reset in 12/18/23 at 1:00 On plaintiff's request for a default judgment"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "12/06/2023",
+                "Description": "Hearing scheduled for 12/18/2023 at 1:00 PM."
+            },
+            {
+                "Title": "Automated Paper Notice Issued to Parties",
+                "DateFiled": "12/07/2023",
+                "Description": "Order Issued ---- 12/6/2023 : Rhonda  Page"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "12/07/2023",
+                "Description": "Order Issued ---- 12/6/2023 : Andrew Robert Duncan"
+            },
+            {
+                "Title": "Hearing",
+                "DateFiled": "12/18/2023",
+                "Description": null
+            },
+            {
+                "Title": "Order Issued",
+                "DateFiled": "12/18/2023",
+                "Description": "Judgment in favor of Plaintiff for the sum of $1052.33  and attorney fees of $250  for a total judgment of $1302.33  plus costs and post judgment interest at 8% per annum."
+            },
+            {
+                "Title": "Default Judgment entered",
+                "DateFiled": "12/18/2023",
+                "Description": null
+            }
+        ],
+        "Court": {
+            "Name": "Washington Township",
+            "Judge": "Poore, Steven G"
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "45D08-2402-SC-000646",
+            "Status": "Pending",
+            "Name": "PORTER HOSPITAL, LLC DBA NORTHWEST HEALTH PORTER v. PAUL MULLINS",
+            "Type": "SC - Small Claims",
+            "DateFiled": "02/13/2024"
+        },
+        "Defendant": {
+            "Address": "3218 EAST 36TH AVENUELAKE STATION, IN 46405",
+            "Name": "MULLINS, PAUL",
+            "Description": null
+        },
+        "Plaintiff": {
+            "Name": "PORTER HOSPITAL, LLC DBA NORTHWEST HEALTH PORTER",
+            "Address": "C/O KOMYATTE & CASBON, PC9650 GORDON DRIVEHIGHLAND, IN 46322"
+        },
+        "Charge": [],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "02/13/2024",
+                "Description": null
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "02/13/2024",
+                "Description": "APPEARANCE"
+            },
+            {
+                "Title": "Notice of Claim Filed",
+                "DateFiled": "02/13/2024",
+                "Description": "NOTICE OF CLAIM"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "02/13/2024",
+                "Description": "Initial Hearing scheduled for 05/28/2024 at 12:45 PM."
+            },
+            {
+                "Title": "Initial Hearing",
+                "DateFiled": "05/28/2024",
+                "Description": null
+            }
+        ],
+        "Court": {
+            "Name": "Lake Superior Court, County Division 2",
+            "Judge": null
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "45D08-2402-SC-000646",
+            "Status": "Pending",
+            "Name": "PORTER HOSPITAL, LLC DBA NORTHWEST HEALTH PORTER v. PAUL MULLINS",
+            "Type": "SC - Small Claims",
+            "DateFiled": "02/13/2024"
+        },
+        "Defendant": {
+            "Address": "3218 EAST 36TH AVENUELAKE STATION, IN 46405",
+            "Name": "MULLINS, PAUL",
+            "Description": null
+        },
+        "Plaintiff": {
+            "Name": "PORTER HOSPITAL, LLC DBA NORTHWEST HEALTH PORTER",
+            "Address": "C/O KOMYATTE & CASBON, PC9650 GORDON DRIVEHIGHLAND, IN 46322"
+        },
+        "Charge": [],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "02/13/2024",
+                "Description": null
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "02/13/2024",
+                "Description": "APPEARANCE"
+            },
+            {
+                "Title": "Notice of Claim Filed",
+                "DateFiled": "02/13/2024",
+                "Description": "NOTICE OF CLAIM"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "02/13/2024",
+                "Description": "Initial Hearing scheduled for 05/28/2024 at 12:45 PM."
+            },
+            {
+                "Title": "Initial Hearing",
+                "DateFiled": "05/28/2024",
+                "Description": null
+            }
+        ],
+        "Court": {
+            "Name": "Lake Superior Court, County Division 2",
+            "Judge": null
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "13C01-2402-CM-000009",
+            "Status": "Pending",
+            "Name": "State of Indiana v. April Dawn Sheckells",
+            "Type": "CM - Criminal Misdemeanor",
+            "DateFiled": "02/12/2024"
+        },
+        "Defendant": {
+            "Address": "13175 S Alton RoadLeavenworth, IN 47137",
+            "Name": "Sheckells, April Dawn",
+            "Description": "Female, White, 5' 5\", 140 lbs."
+        },
+        "Plaintiff": {
+            "Title": "State of Indiana"
+        },
+        "Charge": [
+            {
+                "Name": "35-42-2-1.3(a)(1)/MA: Domestic Battery",
+                "Degree": "MA",
+                "Statute": "35-42-2-1.3(a)(1)",
+                "Date": "02/09/2024"
+            },
+            {
+                "Name": "35-42-2-1(c)(1)/MA: Battery Resulting in Bodily Injury",
+                "Degree": "MA",
+                "Statute": "35-42-2-1(c)(1)",
+                "Date": "02/09/2024"
+            }
+        ],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "02/12/2024",
+                "Description": null
+            },
+            {
+                "Title": "Case Filed Electronically",
+                "DateFiled": "02/12/2024",
+                "Description": "Added By EFile Manager"
+            },
+            {
+                "Title": "Information Filed",
+                "DateFiled": "02/12/2024",
+                "Description": "Information"
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "02/12/2024",
+                "Description": "Appearance"
+            },
+            {
+                "Title": "Probable Cause Affidavit Filed",
+                "DateFiled": "02/12/2024",
+                "Description": "Sheckells - PCA"
+            },
+            {
+                "Title": "Probable Cause Found: Order Issued",
+                "DateFiled": "02/13/2024",
+                "Description": null
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "02/13/2024",
+                "Description": "Initial Hearing scheduled for 02/15/2024 at 9:00 AM."
+            },
+            {
+                "Title": "Initial Hearing",
+                "DateFiled": "02/15/2024",
+                "Description": null
+            }
+        ],
+        "Court": {
+            "Name": "Crawford Circuit Court",
+            "Judge": "Mills, Justin B."
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "12C01-2402-CM-000193",
+            "Status": "Pending",
+            "Name": "State of Indiana v. PEDRO SALGADO",
+            "Type": "CM - Criminal Misdemeanor",
+            "DateFiled": "02/12/2024"
+        },
+        "Defendant": {
+            "Address": "3008 Butterfield Ct. Apt. ALafayette, IN 47909",
+            "Name": "SALGADO, PEDRO",
+            "Description": "Male, White, 5' 9\", 135 lbs."
+        },
+        "Plaintiff": {
+            "Title": "State of Indiana"
+        },
+        "Charge": [
+            {
+                "Name": "9-24-19-2/MA: Driving While Suspended: Knowing Violation and Prior Conviction w/in 10 Years",
+                "Degree": "MA",
+                "Statute": "9-24-19-2",
+                "Date": "02/07/2024"
+            }
+        ],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "02/12/2024",
+                "Description": null
+            },
+            {
+                "Title": "Case Filed Electronically",
+                "DateFiled": "02/12/2024",
+                "Description": "Added By EFile Manager"
+            },
+            {
+                "Title": "Probable Cause Affidavit Filed",
+                "DateFiled": "02/12/2024",
+                "Description": "Probable Cause Affidavit"
+            },
+            {
+                "Title": "Information Filed",
+                "DateFiled": "02/12/2024",
+                "Description": "Information"
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "02/12/2024",
+                "Description": "Appearance"
+            },
+            {
+                "Title": "Subpoena/Summons Filed",
+                "DateFiled": "02/12/2024",
+                "Description": "Summons"
+            },
+            {
+                "Title": "Probable Cause Found: Order Issued",
+                "DateFiled": "02/13/2024",
+                "Description": null
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "02/13/2024",
+                "Description": "Initial Hearing scheduled for 03/19/2024 at 1:30 PM."
+            },
+            {
+                "Title": "Initial Hearing",
+                "DateFiled": "03/19/2024",
+                "Description": null
+            }
+        ],
+        "Court": {
+            "Name": "Clinton Circuit Court",
+            "Judge": "Mohler, Bradley K"
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "12C01-2402-CM-000192",
+            "Status": "Pending",
+            "Name": "State of Indiana v. Kelden Shamus Benner",
+            "Type": "CM - Criminal Misdemeanor",
+            "DateFiled": "02/12/2024"
+        },
+        "Defendant": {
+            "Address": "3304 Pebble Court, Apt. ELafayette, IN 47909",
+            "Name": "Benner, Kelden Shamus",
+            "Description": "Male, White, 6' 3\", 182 lbs."
+        },
+        "Plaintiff": {
+            "Title": "State of Indiana"
+        },
+        "Charge": [
+            {
+                "Name": "9-30-5-2(a) &amp; (b)/MA: Operating a Vehicle While Intoxicated Endangering a Person",
+                "Degree": "MA",
+                "Statute": "9-30-5-2(a) &amp; (b)",
+                "Date": "02/10/2024"
+            },
+            {
+                "Name": "9-30-5-1(a)/MC: Oper Veh w/ Alcohol Concentration Equivalent to at Least .08 but Less than .15",
+                "Degree": "MC",
+                "Statute": "9-30-5-1(a)",
+                "Date": "02/10/2024"
+            }
+        ],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "02/12/2024",
+                "Description": null
+            },
+            {
+                "Title": "Case Filed Electronically",
+                "DateFiled": "02/12/2024",
+                "Description": "Added By EFile Manager"
+            },
+            {
+                "Title": "Information Filed",
+                "DateFiled": "02/12/2024",
+                "Description": "Information"
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "02/12/2024",
+                "Description": "Appearance"
+            },
+            {
+                "Title": "Probable Cause Affidavit Filed",
+                "DateFiled": "02/12/2024",
+                "Description": "Benner, Kelden.OWI Affidavit.pdf"
+            },
+            {
+                "Title": "Probable Cause Found: Order Issued",
+                "DateFiled": "02/12/2024",
+                "Description": null
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "02/12/2024",
+                "Description": "Initial Hearing scheduled for 02/14/2024 at 2:00 PM."
+            },
+            {
+                "Title": "Automated Paper Notice Issued to Parties",
+                "DateFiled": "02/13/2024",
+                "Description": "Probable Cause Found: Order Issued ---- 2/12/2024 : Kelden Shamus Benner\nHearing Scheduling Activity ---- 2/12/2024 : Kelden Shamus Benner"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "02/13/2024",
+                "Description": "Probable Cause Found: Order Issued ---- 2/12/2024 : Christine Bensen Smith\nHearing Scheduling Activity ---- 2/12/2024 : Christine Bensen Smith;Anthony Jude Sommer"
+            },
+            {
+                "Title": "Initial Hearing",
+                "DateFiled": "02/14/2024",
+                "Description": null
+            }
+        ],
+        "Court": {
+            "Name": "Clinton Circuit Court",
+            "Judge": "Mohler, Bradley K"
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "12C01-2402-CM-000196",
+            "Status": "Pending",
+            "Name": "State of Indiana v. Dazhan Maurice Whitfield",
+            "Type": "CM - Criminal Misdemeanor",
+            "DateFiled": "02/12/2024"
+        },
+        "Defendant": {
+            "Address": "2020 Manchester LnIndianapolis, IN 46260",
+            "Name": "Whitfield, Dazhan Maurice",
+            "Description": "Male, Black, 5' 7\", 120 lbs."
+        },
+        "Plaintiff": {
+            "Title": "State of Indiana"
+        },
+        "Charge": [
+            {
+                "Name": "9-24-19-2/MA: Driving While Suspended: Knowing Violation and Prior Conviction w/in 10 Years",
+                "Degree": "MA",
+                "Statute": "9-24-19-2",
+                "Date": "02/08/2024"
+            }
+        ],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "02/12/2024",
+                "Description": null
+            },
+            {
+                "Title": "Case Filed Electronically",
+                "DateFiled": "02/12/2024",
+                "Description": "Added By EFile Manager"
+            },
+            {
+                "Title": "Probable Cause Affidavit Filed",
+                "DateFiled": "02/12/2024",
+                "Description": "Probable Cause Affidavit"
+            },
+            {
+                "Title": "Information Filed",
+                "DateFiled": "02/12/2024",
+                "Description": "Information"
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "02/12/2024",
+                "Description": "Appearance"
+            },
+            {
+                "Title": "Subpoena/Summons Filed",
+                "DateFiled": "02/12/2024",
+                "Description": "Summons"
+            },
+            {
+                "Title": "Probable Cause Found: Order Issued",
+                "DateFiled": "02/13/2024",
+                "Description": null
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "02/13/2024",
+                "Description": "Initial Hearing scheduled for 03/26/2024 at 1:30 PM."
+            },
+            {
+                "Title": "Initial Hearing",
+                "DateFiled": "03/26/2024",
+                "Description": null
+            }
+        ],
+        "Court": {
+            "Name": "Clinton Circuit Court",
+            "Judge": "Mohler, Bradley K"
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "41C01-2402-F6-000089",
+            "Status": "Pending",
+            "Name": "State of Indiana v. Joseph Henry Fowler",
+            "Type": "F6 - Felony 6",
+            "DateFiled": "02/08/2024"
+        },
+        "Defendant": {
+            "Address": "1921 W Northgate DriveColumbus, IN 47201",
+            "Name": "Fowler, Joseph Henry",
+            "Description": "Male, White, 5' 6\", 172 lbs."
+        },
+        "Plaintiff": {
+            "Title": "State of Indiana"
+        },
+        "Charge": [
+            {
+                "Name": "35-48-4-6.1(a)/F6:Possession of Methamphetamine This is the basic offense and for any amount below 5",
+                "Degree": "F6",
+                "Statute": "35-48-4-6.1(a)",
+                "Date": "02/05/2024"
+            },
+            {
+                "Name": "35-48-4-8.3(b)(1)/MC: Possession of Paraphernalia",
+                "Degree": "MC",
+                "Statute": "35-48-4-8.3(b)(1)",
+                "Date": "02/05/2024"
+            }
+        ],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "02/08/2024",
+                "Description": null
+            },
+            {
+                "Title": "Case Filed Electronically",
+                "DateFiled": "02/08/2024",
+                "Description": "Added By EFile Manager"
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "02/08/2024",
+                "Description": "Appearance"
+            },
+            {
+                "Title": "Information Filed",
+                "DateFiled": "02/08/2024",
+                "Description": "Information"
+            },
+            {
+                "Title": "Probable Cause Affidavit Filed",
+                "DateFiled": "02/08/2024",
+                "Description": "J. Fowler PCA.pdf"
+            },
+            {
+                "Title": "Probable Cause Found: Order Issued",
+                "DateFiled": "02/09/2024",
+                "Description": "\"Order Determining Probable Cause\" ENTERED.  The Court sets bond at $200.00 cash and $2000.00 surety.  The matter is set for Initial Hearing on February 12, 2024 at 9:00 a.m.  The Defendant is ordered to appear. blv"
+            },
+            {
+                "Title": "Notice Issued",
+                "DateFiled": "02/09/2024",
+                "Description": null
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "02/09/2024",
+                "Description": "Initial Hearing scheduled for 02/12/2024 at 9:00 AM."
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "02/09/2024",
+                "Description": "Appearance"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "02/10/2024",
+                "Description": "Probable Cause Found: Order Issued ---- 2/9/2024 : Bryan Paul Smith;Joseph Henry Fowler;Lance Dalton Hamner\nNotice Issued ---- 2/9/2024 : Bryan Paul Smith;Joseph Henry Fowler;Lance Dalton Hamner\nHearing Scheduling Activity ---- 2/9/2024 : Bryan Paul Smith;Joseph Henry Fowler;Lance Dalton Hamner"
+            },
+            {
+                "Title": "Initial Hearing",
+                "DateFiled": "02/12/2024",
+                "Description": null
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "02/12/2024",
+                "Description": "Pretrial Conference scheduled for 04/01/2024 at 9:00 AM."
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "02/12/2024",
+                "Description": "Jury Trial scheduled for 04/23/2024 at 8:00 AM."
+            },
+            {
+                "Title": "Indigent Counsel Appointed at Court Expense",
+                "DateFiled": "02/12/2024",
+                "Description": null
+            },
+            {
+                "Title": "Hearing Journal Entry",
+                "DateFiled": "02/12/2024",
+                "Description": "The State appears by its Deputy Prosecutor, Bryan Smith, Esq.  The Defendant appears in person, in custody and pro-se.  Initial Hearing is held.  Preliminary plea of not guilty is entered.  The matter is set for Pretrial/Omnibus Hearing on April 1, 2024 at 9:00 a.m. and for Trial by Jury on April 23, 2024 at 8:00 a.m.  The Defendant is ordered to appear on each date.  The court appoints Dorie Maryan, Esq. as counsel for the Defendant.  blv"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "02/13/2024",
+                "Description": "Hearing Scheduling Activity ---- 2/12/2024 : Bryan Paul Smith;Dorothy A Maryan;Lance Dalton Hamner\nHearing Scheduling Activity ---- 2/12/2024 : Bryan Paul Smith;Dorothy A Maryan;Lance Dalton Hamner\nHearing Journal Entry ---- 2/12/2024 : Bryan Paul Smith;Dorothy A Maryan;Lance Dalton Hamner"
+            },
+            {
+                "Title": "Pretrial Conference",
+                "DateFiled": "04/01/2024",
+                "Description": null
+            },
+            {
+                "Title": "Jury Trial",
+                "DateFiled": "04/23/2024",
+                "Description": null
+            }
+        ],
+        "Court": {
+            "Name": "Johnson Circuit Court",
+            "Judge": "Roesener, Andrew S"
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "13C01-2402-F6-000005",
+            "Status": "Pending",
+            "Name": "State of Indiana v. Brittany Nichole Westhafer",
+            "Type": "F6 - Felony 6",
+            "DateFiled": "02/07/2024"
+        },
+        "Defendant": {
+            "Address": "4702 E Valeene RoadMarengo, IN 47150",
+            "Name": "Westhafer, Brittany Nichole",
+            "Description": "Female, 5' 3\", 180 lbs."
+        },
+        "Plaintiff": {
+            "Title": "State of Indiana"
+        },
+        "Charge": [
+            {
+                "Name": "35-46-1-8(a)/F6: Contributing to the Delinquency of a Minor-Crime is a Misd and Child is under 16",
+                "Degree": "F6",
+                "Statute": "35-46-1-8(a)",
+                "Date": "02/05/2024"
+            },
+            {
+                "Name": "35-46-1-4(a)(1)/F6: Neglect of a Dependent def. places dependent in situation that endangers the dep",
+                "Degree": "F6",
+                "Statute": "35-46-1-4(a)(1)",
+                "Date": "02/05/2024"
+            },
+            {
+                "Name": "35-48-4-11(a)(1)/MB: Possession of Marijuana",
+                "Degree": "MB",
+                "Statute": "35-48-4-11(a)(1)",
+                "Date": "02/05/2024"
+            },
+            {
+                "Name": "35-45-1-3(a)(1)/MB: Disorderly Conduct: engages in fighting or tumultuous conduct",
+                "Degree": "MB",
+                "Statute": "35-45-1-3(a)(1)",
+                "Date": "02/05/2024"
+            }
+        ],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "02/07/2024",
+                "Description": null
+            },
+            {
+                "Title": "Case Filed Electronically",
+                "DateFiled": "02/08/2024",
+                "Description": "Added By EFile Manager"
+            },
+            {
+                "Title": "Information Filed",
+                "DateFiled": "02/08/2024",
+                "Description": "Information"
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "02/08/2024",
+                "Description": "Appearance"
+            },
+            {
+                "Title": "Probable Cause Affidavit Filed",
+                "DateFiled": "02/08/2024",
+                "Description": "PCA - Westhafer.pdf"
+            },
+            {
+                "Title": "Initial Hearing",
+                "DateFiled": "02/08/2024",
+                "Description": null
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "02/08/2024",
+                "Description": "Initial Hearing scheduled for 02/08/2024 at 9:00 AM."
+            },
+            {
+                "Title": "Automated Paper Notice Issued to Parties",
+                "DateFiled": "02/09/2024",
+                "Description": "Hearing Scheduling Activity ---- 2/8/2024 : Brittany Nichole Westhafer"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "02/09/2024",
+                "Description": "Hearing Scheduling Activity ---- 2/8/2024 : Chase Jonathan Smith"
+            }
+        ],
+        "Court": {
+            "Name": "Crawford Circuit Court",
+            "Judge": null
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "79D04-2402-F6-000125",
+            "Status": "Pending",
+            "Name": "State of Indiana v. Tyler T Hannah",
+            "Type": "F6 - Felony 6",
+            "DateFiled": "02/09/2024"
+        },
+        "Defendant": {
+            "Address": "6703 Wolverine WayIndianapolis, IN 46237",
+            "Name": "Hannah, Tyler T",
+            "Description": "Male, Black, 5' 9\", 146 lbs."
+        },
+        "Plaintiff": {
+            "Title": "State of Indiana"
+        },
+        "Charge": [
+            {
+                "Name": "35-48-4-10(a)(1)/F6: Dealing in Marijuana weighing b/t 30 grams &amp; 10 pounds.",
+                "Degree": "F6",
+                "Statute": "35-48-4-10(a)(1)",
+                "Date": "02/08/2024"
+            },
+            {
+                "Name": "35-48-4-11(a)(1)/MB: Possession of Marijuana",
+                "Degree": "MB",
+                "Statute": "35-48-4-11(a)(1)",
+                "Date": "02/08/2024"
+            }
+        ],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "02/09/2024",
+                "Description": null
+            },
+            {
+                "Title": "Case Filed Electronically",
+                "DateFiled": "02/09/2024",
+                "Description": "Added By EFile Manager"
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "02/09/2024",
+                "Description": "Appearance"
+            },
+            {
+                "Title": "Information Filed",
+                "DateFiled": "02/09/2024",
+                "Description": "Charging Information"
+            },
+            {
+                "Title": "Probable Cause Affidavit Filed",
+                "DateFiled": "02/09/2024",
+                "Description": "Probable Cause Affidavit"
+            },
+            {
+                "Title": "Probable Cause Affidavit Filed",
+                "DateFiled": "02/09/2024",
+                "Description": "Police Report"
+            },
+            {
+                "Title": "Advisement of Rights Conducted",
+                "DateFiled": "02/09/2024",
+                "Description": null
+            },
+            {
+                "Title": "Order on Initial Hearing",
+                "DateFiled": "02/09/2024",
+                "Description": "Defendant in custody."
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "02/09/2024",
+                "Description": "Attorney Conference scheduled for 03/01/2024 at 1:00 PM."
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "02/09/2024",
+                "Description": "Discovery Conference scheduled for 03/19/2024 at 2:00 PM."
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "02/09/2024",
+                "Description": "Pretrial Conference scheduled for 04/09/2024 at 1:00 PM."
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "02/09/2024",
+                "Description": "Jury Trial scheduled for 04/24/2024 at 9:00 AM."
+            },
+            {
+                "Title": "Indigent Counsel Appointed at Court Expense",
+                "DateFiled": "02/09/2024",
+                "Description": null
+            },
+            {
+                "Title": "Document Filed",
+                "DateFiled": "02/09/2024",
+                "Description": "TCCC Pretrial Assessment"
+            },
+            {
+                "Title": "Release on Own Recognizance",
+                "DateFiled": "02/09/2024",
+                "Description": "Pretrial recommendation accepted.  Defendant to report to TCCC by 2/12/24 by 10:00 a.m."
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "02/09/2024",
+                "Description": "Appearance of Paul Smith"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "02/10/2024",
+                "Description": "Order on Initial Hearing ---- 2/9/2024 : Patrick K Harrington;Paul M Smith\nHearing Scheduling Activity ---- 2/9/2024 : Patrick K Harrington;Paul M Smith\nHearing Scheduling Activity ---- 2/9/2024 : Patrick K Harrington;Paul M Smith\nHearing Scheduling Activity ---- 2/9/2024 : Patrick K Harrington;Paul M Smith\nHearing Scheduling Activity ---- 2/9/2024 : Patrick K Harrington;Paul M Smith"
+            },
+            {
+                "Title": "Attorney Conference",
+                "DateFiled": "03/01/2024",
+                "Description": null
+            },
+            {
+                "Title": "Discovery Conference",
+                "DateFiled": "03/19/2024",
+                "Description": null
+            },
+            {
+                "Title": "Pretrial Conference",
+                "DateFiled": "04/09/2024",
+                "Description": null
+            },
+            {
+                "Title": "Jury Trial",
+                "DateFiled": "04/24/2024",
+                "Description": null
+            }
+        ],
+        "Court": {
+            "Name": "Tippecanoe Superior Court 4",
+            "Judge": "Wyatt, Sarah M. - MAG"
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "45H05-2209-IF-001423",
+            "Status": "Decided",
+            "Name": "State of Indiana v. DANIEL B SUPRENANT",
+            "Type": "IF - Infraction",
+            "DateFiled": "09/19/2022"
+        },
+        "Defendant": {
+            "Address": "961 E 12TH STHOBART, IN 46342",
+            "Name": "SUPRENANT, DANIEL B",
+            "Description": "Male, White, 5' 8\", 240 lbs."
+        },
+        "Plaintiff": {
+            "Title": "State of Indiana"
+        },
+        "Charge": [
+            {
+                "Name": "9-21-8-41(a)/IFC: Disregarding an Official Traffic Control Device",
+                "Degree": "IFC",
+                "Statute": "9-21-8-41(a)",
+                "Date": "09/14/2022"
+            }
+        ],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "09/19/2022",
+                "Description": null
+            },
+            {
+                "Title": "Traffic Citation Filed",
+                "DateFiled": "09/19/2022",
+                "Description": null
+            },
+            {
+                "Title": "Correspondence to/from Court Filed",
+                "DateFiled": "09/19/2022",
+                "Description": "Correspondence filed by defendant requesting alternative court date."
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "09/19/2022",
+                "Description": "Initial Hearing scheduled for 09/29/2022 at 1:00 PM."
+            },
+            {
+                "Title": "Order Issued",
+                "DateFiled": "09/19/2022",
+                "Description": "SETTING HEARING"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "09/20/2022",
+                "Description": "Hearing Scheduling Activity ---- 9/19/2022 : DANIEL B SUPRENANT\nOrder Issued ---- 9/19/2022 : DANIEL B SUPRENANT"
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "09/21/2022",
+                "Description": "Appearance"
+            },
+            {
+                "Title": "Motion Filed",
+                "DateFiled": "09/21/2022",
+                "Description": "Motion to Continue Initial Hearing and Mandatory Court Appearance"
+            },
+            {
+                "Title": "Order Issued",
+                "DateFiled": "09/26/2022",
+                "Description": null
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "09/26/2022",
+                "Description": "Initial Hearing originally scheduled on 09/29/2022 at 1:00 PM was rescheduled to 12/15/2022 at 1:00 PM. Reason: By Request."
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "09/27/2022",
+                "Description": "Order Issued ---- 9/26/2022 : Alison Louise Benjamin\nHearing Scheduling Activity ---- 9/26/2022 : Alison Louise Benjamin"
+            },
+            {
+                "Title": "Motion Filed",
+                "DateFiled": "12/07/2022",
+                "Description": "Motion to Continue Initial Hearing and Mandatory Court Appearance"
+            },
+            {
+                "Title": "Order Issued",
+                "DateFiled": "12/07/2022",
+                "Description": null
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "12/07/2022",
+                "Description": "Initial Hearing originally scheduled on 12/15/2022 at 1:00 PM was rescheduled to 01/26/2023 at 1:00 PM. Reason: By Request."
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "12/08/2022",
+                "Description": "Order Issued ---- 12/7/2022 : Alison Louise Benjamin\nHearing Scheduling Activity ---- 12/7/2022 : Alison Louise Benjamin"
+            },
+            {
+                "Title": "Motion Filed",
+                "DateFiled": "01/19/2023",
+                "Description": "Motion to Continue Initial Hearing and Mandatory Court Appearance"
+            },
+            {
+                "Title": "Order Issued",
+                "DateFiled": "01/25/2023",
+                "Description": "Order To Continue"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "01/25/2023",
+                "Description": "Initial Hearing originally scheduled on 01/26/2023 at 1:00 PM was rescheduled to 03/23/2023 at 1:00 PM. Reason: By Request."
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "01/26/2023",
+                "Description": "Order Issued ---- 1/25/2023 : Alison Louise Benjamin\nHearing Scheduling Activity ---- 1/25/2023 : Alison Louise Benjamin"
+            },
+            {
+                "Title": "Plea Agreement Filed",
+                "DateFiled": "03/16/2023",
+                "Description": "Plea Agreement"
+            },
+            {
+                "Title": "Initial Hearing",
+                "DateFiled": "03/23/2023",
+                "Description": null
+            },
+            {
+                "Title": "Judgment",
+                "DateFiled": "03/23/2023",
+                "Description": null
+            },
+            {
+                "Title": "Order Issued",
+                "DateFiled": "04/05/2023",
+                "Description": "ACCEPTING PLEA"
+            },
+            {
+                "Title": "ZNT - An Electronic SR16 has been sent to the BMV",
+                "DateFiled": "04/05/2023",
+                "Description": "Ticket Substitute SR16 sent to BMV for Charge 1 for Statute 9-21-8-41(a)"
+            },
+            {
+                "Title": "Case Paid in Full",
+                "DateFiled": "04/13/2023",
+                "Description": "#2023-385"
+            },
+            {
+                "Title": "Document Filed",
+                "DateFiled": "05/12/2023",
+                "Description": "Certificate of Course Completion Comedy Traffic School"
+            },
+            {
+                "Title": "Case Closed",
+                "DateFiled": "06/26/2023",
+                "Description": null
+            }
+        ],
+        "Court": {
+            "Name": "Hobart City Court",
+            "Judge": "Longer, William J"
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "45H03-2006-IF-001402",
+            "Status": "Decided",
+            "Name": "State of Indiana v. KEVIN W CLARK, Jr.",
+            "Type": "IF - Infraction",
+            "DateFiled": "06/09/2020"
+        },
+        "Defendant": {
+            "Address": "473 MANOR DRHOBART, IN 46342",
+            "Name": "CLARK Jr., KEVIN W",
+            "Description": "Male, Black, 6' 1\", 300 lbs."
+        },
+        "Plaintiff": {
+            "Title": "State of Indiana"
+        },
+        "Charge": [
+            {
+                "Name": "9-21-5-2(a)/IFC: Speeding",
+                "Degree": "IFC",
+                "Statute": "9-21-5-2(a)",
+                "Date": "06/04/2020"
+            }
+        ],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "06/09/2020",
+                "Description": null
+            },
+            {
+                "Title": "Traffic Citation Filed",
+                "DateFiled": "06/09/2020",
+                "Description": null
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "08/25/2020",
+                "Description": "Hearing scheduled for 08/27/2020 at 5:30 PM."
+            },
+            {
+                "Title": "Hearing",
+                "DateFiled": "08/27/2020",
+                "Description": null
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "09/08/2020",
+                "Description": null
+            },
+            {
+                "Title": "Waiver of Initial Hearing Filed",
+                "DateFiled": "09/08/2020",
+                "Description": "Initional Hearing August 27, 2020 5:30 pm"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "09/08/2020",
+                "Description": "Hearing scheduled for 10/08/2020 at 9:00 AM."
+            },
+            {
+                "Title": "Hearing",
+                "DateFiled": "10/08/2020",
+                "Description": null
+            },
+            {
+                "Title": "Motion for Continuance Filed",
+                "DateFiled": "10/23/2020",
+                "Description": null
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "10/23/2020",
+                "Description": "Hearing scheduled for 11/12/2020 at 9:00 AM."
+            },
+            {
+                "Title": "Motion to Dismiss Filed",
+                "DateFiled": "10/23/2020",
+                "Description": "State's Motion to Dismiss"
+            },
+            {
+                "Title": "Order Granting Motion for Continuance",
+                "DateFiled": "11/02/2020",
+                "Description": "Previous event for Dimissal Motion Entered in Error"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "11/10/2020",
+                "Description": "Hearing originally scheduled on 11/12/2020 at 9:00 AM was rescheduled to 01/14/2021 at 9:00 AM. Reason: Court's Own Motion."
+            },
+            {
+                "Title": "Hearing",
+                "DateFiled": "01/14/2021",
+                "Description": null
+            },
+            {
+                "Title": "Hearing Journal Entry",
+                "DateFiled": "01/19/2021",
+                "Description": "Deferral Status- all terms met, matter is Dismissed."
+            },
+            {
+                "Title": "Judgment",
+                "DateFiled": "01/19/2021",
+                "Description": null
+            },
+            {
+                "Title": "Case Closed",
+                "DateFiled": "01/19/2021",
+                "Description": null
+            }
+        ],
+        "Court": {
+            "Name": "Gary City Court",
+            "Judge": "Monroe, Deidre L"
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "45D07-1910-IF-023534",
+            "Status": "Decided",
+            "Name": "State of Indiana v. TONI LYNN CLARK",
+            "Type": "IF - Infraction",
+            "DateFiled": "10/16/2019"
+        },
+        "Defendant": {
+            "Address": "473  MANOR  DRIVEHOBART, IN 46342",
+            "Name": "CLARK, TONI LYNN",
+            "Description": "Female, Black, 5' 5\", 234 lbs."
+        },
+        "Plaintiff": {
+            "Title": "State of Indiana"
+        },
+        "Charge": [
+            {
+                "Name": "5-16-9-5(a)/IFC:  Parking in Handicapped Space w/o Placard",
+                "Degree": "IFC",
+                "Statute": "5-16-9-5(a)",
+                "Date": "10/11/2019"
+            }
+        ],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "10/16/2019",
+                "Description": null
+            },
+            {
+                "Title": "Traffic Citation Filed",
+                "DateFiled": "10/16/2019",
+                "Description": null
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "10/28/2019",
+                "Description": "Appearance"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "11/19/2019",
+                "Description": "Initial Hearing scheduled for 05/28/2020 at 4:30 PM."
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "11/20/2019",
+                "Description": "Hearing Scheduling Activity ---- 11/19/2019 : Alison Louise Benjamin"
+            },
+            {
+                "Title": "Motion to Dismiss Filed",
+                "DateFiled": "02/07/2020",
+                "Description": "State's Motion to Dismiss"
+            },
+            {
+                "Title": "Motion to Set Aside/Vacate Judgment Filed",
+                "DateFiled": "02/20/2020",
+                "Description": null
+            },
+            {
+                "Title": "Order Granting Motion to Dismiss",
+                "DateFiled": "02/20/2020",
+                "Description": null
+            },
+            {
+                "Title": "Judgment Docket Book",
+                "DateFiled": "02/20/2020",
+                "Description": "Dismiss"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "02/20/2020",
+                "Description": "Initial Hearing scheduled for 05/28/2020 at 4:30 PM was cancelled. Reason: Dismissal / Judgment."
+            },
+            {
+                "Title": "Case Closed",
+                "DateFiled": "02/20/2020",
+                "Description": null
+            },
+            {
+                "Title": "Judgment",
+                "DateFiled": "02/20/2020",
+                "Description": null
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "02/21/2020",
+                "Description": "Order Granting Motion to Dismiss ---- 2/20/2020 : Alison Louise Benjamin;Bernard Arnold Carter\nHearing Scheduling Activity ---- 2/20/2020 : Alison Louise Benjamin;Bernard Arnold Carter"
+            },
+            {
+                "Title": "Initial Hearing",
+                "DateFiled": "05/28/2020",
+                "Description": null
+            }
+        ],
+        "Court": {
+            "Name": "Lake Superior Court, County Division 1",
+            "Judge": "Paras, Catheron -PT"
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "64D03-1904-IF-003191",
+            "Status": "Decided",
+            "Name": "State of Indiana v. TONI CLARK",
+            "Type": "IF - Infraction",
+            "DateFiled": "04/12/2019"
+        },
+        "Defendant": {
+            "Address": "473  MANOR  DRIVEHOBART, IN 46342",
+            "Name": "CLARK, TONI L",
+            "Description": "Female, Black, 5' 5\", 234 lbs."
+        },
+        "Plaintiff": {
+            "Title": "State of Indiana"
+        },
+        "Charge": [
+            {
+                "Name": "9-21-5-2(a)/IFC: Speeding",
+                "Degree": "IFC",
+                "Statute": "9-21-5-2(a)",
+                "Date": "04/07/2019"
+            }
+        ],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "04/12/2019",
+                "Description": null
+            },
+            {
+                "Title": "Traffic Citation Filed",
+                "DateFiled": "04/12/2019",
+                "Description": null
+            },
+            {
+                "Title": "Case Filed Electronically",
+                "DateFiled": "04/12/2019",
+                "Description": null
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "04/12/2019",
+                "Description": "Initial Hearing scheduled for 06/24/2019 at 4:00 PM."
+            },
+            {
+                "Title": "Automated Paper Notice Issued to Parties",
+                "DateFiled": "04/13/2019",
+                "Description": "Hearing Scheduling Activity ---- 4/12/2019 : Toni L Clark"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "04/13/2019",
+                "Description": "Hearing Scheduling Activity ---- 4/12/2019 : Gary Stephen Germann"
+            },
+            {
+                "Title": "Clerk Administrative Event",
+                "DateFiled": "06/18/2019",
+                "Description": "GAVE FIRST EXTENSION TO 7-22-19"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "06/18/2019",
+                "Description": "Initial Hearing originally scheduled on 06/24/2019 at 4:00 PM was rescheduled to 07/22/2019 at 4:00 PM. Reason: By Request."
+            },
+            {
+                "Title": "Automated Paper Notice Issued to Parties",
+                "DateFiled": "06/19/2019",
+                "Description": "Hearing Scheduling Activity ---- 6/18/2019 : Toni L Clark"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "06/19/2019",
+                "Description": "Hearing Scheduling Activity ---- 6/18/2019 : Gary Stephen Germann"
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "07/18/2019",
+                "Description": "Appearance"
+            },
+            {
+                "Title": "Waiver of Initial Hearing Filed",
+                "DateFiled": "07/18/2019",
+                "Description": "Motion to Waive Initial Hearing"
+            },
+            {
+                "Title": "Order on Hearing",
+                "DateFiled": "07/18/2019",
+                "Description": "INITIAL HEARING WAIVED COURT SETS MATTER FOR HEARING ON\n9-17-19 AT 8:30AM"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "07/18/2019",
+                "Description": "Initial Hearing scheduled for 07/22/2019 at 4:00 PM was cancelled. Reason: Other."
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "07/18/2019",
+                "Description": "Discovery Conference scheduled for 09/17/2019 at 8:30 AM."
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "07/19/2019",
+                "Description": "Appearance Filed ---- 7/18/2019 : Alison Louise Benjamin;Gary Stephen Germann\nOrder on Hearing ---- 7/18/2019 : Alison Louise Benjamin;Gary Stephen Germann\nHearing Scheduling Activity ---- 7/18/2019 : Alison Louise Benjamin;Gary Stephen Germann\nHearing Scheduling Activity ---- 7/18/2019 : Alison Louise Benjamin;Gary Stephen Germann"
+            },
+            {
+                "Title": "Initial Hearing",
+                "DateFiled": "07/22/2019",
+                "Description": null
+            },
+            {
+                "Title": "Motion for Continuance Filed",
+                "DateFiled": "09/09/2019",
+                "Description": "Motion to Continue"
+            },
+            {
+                "Title": "Order Granting Motion for Continuance",
+                "DateFiled": "09/17/2019",
+                "Description": "MDC SET FOR 10-29-19 AT 8:30AM"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "09/17/2019",
+                "Description": "Discovery Conference originally scheduled on 09/17/2019 at 8:30 AM was rescheduled to 10/29/2019 at 8:30 AM. Reason: By Request."
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "09/18/2019",
+                "Description": "Order Granting Motion for Continuance ---- 9/17/2019 : Alison Louise Benjamin;Gary Stephen Germann\nHearing Scheduling Activity ---- 9/17/2019 : Alison Louise Benjamin;Gary Stephen Germann"
+            },
+            {
+                "Title": "Appearance Filed",
+                "DateFiled": "10/04/2019",
+                "Description": "Amended Appearance"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "10/05/2019",
+                "Description": "Appearance Filed ---- 10/4/2019 : Alison Louise Benjamin;Gary Stephen Germann"
+            },
+            {
+                "Title": "Motion for Continuance Filed",
+                "DateFiled": "10/23/2019",
+                "Description": "Motion to Continue"
+            },
+            {
+                "Title": "Order Granting Motion for Continuance",
+                "DateFiled": "10/25/2019",
+                "Description": "MDC set for 12-03-19 at 8:30am"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "10/25/2019",
+                "Description": "Discovery Conference originally scheduled on 10/29/2019 at 8:30 AM was rescheduled to 12/03/2019 at 8:30 AM. Reason: By Request."
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "10/26/2019",
+                "Description": "Order Granting Motion for Continuance ---- 10/25/2019 : Alison Louise Benjamin;Gary Stephen Germann\nHearing Scheduling Activity ---- 10/25/2019 : Alison Louise Benjamin;Gary Stephen Germann"
+            },
+            {
+                "Title": "Motion for Continuance Filed",
+                "DateFiled": "12/03/2019",
+                "Description": "Motion to Continue"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "12/04/2019",
+                "Description": "Discovery Conference originally scheduled on 12/03/2019 at 8:30 AM was rescheduled to 02/11/2020 at 8:30 AM. Reason: By Request."
+            },
+            {
+                "Title": "Order Granting Motion for Continuance",
+                "DateFiled": "12/04/2019",
+                "Description": "MDC SET FOR 2-11-20 AT 8:30AM"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "12/05/2019",
+                "Description": "Hearing Scheduling Activity ---- 12/4/2019 : Alison Louise Benjamin;Gary Stephen Germann\nOrder Granting Motion for Continuance ---- 12/4/2019 : Alison Louise Benjamin;Gary Stephen Germann"
+            },
+            {
+                "Title": "Motion to Dismiss Filed",
+                "DateFiled": "02/07/2020",
+                "Description": "State's Motion to Dismiss"
+            },
+            {
+                "Title": "Discovery Conference",
+                "DateFiled": "02/11/2020",
+                "Description": null
+            },
+            {
+                "Title": "Order of Dismissal",
+                "DateFiled": "02/12/2020",
+                "Description": "ORDER ON STATE'S MOTION TO DISMISS"
+            },
+            {
+                "Title": "Judgment",
+                "DateFiled": "02/12/2020",
+                "Description": null
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "02/13/2020",
+                "Description": "Order of Dismissal ---- 2/12/2020 : Alison Louise Benjamin;Gary Stephen Germann"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "02/14/2020",
+                "Description": "Discovery Conference scheduled for 02/11/2020 at 8:30 AM was cancelled. Reason: Dismissal / Judgment."
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "02/15/2020",
+                "Description": "Hearing Scheduling Activity ---- 2/14/2020 : Alison Louise Benjamin;Gary Stephen Germann"
+            }
+        ],
+        "Court": {
+            "Name": "Porter Superior Court 3",
+            "Judge": null
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "79D04-1804-SC-001234",
+            "Status": "Decided",
+            "Name": "MEB Enterprises, LLC v. Rebecca Henderson",
+            "Type": "SC - Small Claims",
+            "DateFiled": "04/13/2018"
+        },
+        "Defendant": {
+            "Address": "1501 South StreetLafayette, IN 47901",
+            "Name": "Henderson, Rebecca",
+            "Description": null
+        },
+        "Plaintiff": {
+            "Name": "MEB Enterprises, LLC",
+            "Address": "PO. Box 93Lafayette, IN 47902"
+        },
+        "Charge": [],
+        "Event": [
+            {
+                "Title": "Case Opened as a New Filing",
+                "DateFiled": "04/13/2018",
+                "Description": null
+            },
+            {
+                "Title": "Notice of Claim Filed",
+                "DateFiled": "04/13/2018",
+                "Description": "Summons and Complaint-Possession"
+            },
+            {
+                "Title": "Hearing Scheduling Activity",
+                "DateFiled": "04/16/2018",
+                "Description": "Eviction Hearing scheduled for 04/23/2018 at 8:25 AM."
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "04/17/2018",
+                "Description": "Hearing Scheduling Activity ---- 4/16/2018 : Mark Evgenievich Benjamin"
+            },
+            {
+                "Title": "Service Returned Served",
+                "DateFiled": "04/20/2018",
+                "Description": "SUMMONS served on Henderson, Rebecca by Copy Service with First Class Mail on 04/19/18.  SM"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "04/21/2018",
+                "Description": "Service Returned Served ---- 4/20/2018 : Mark Evgenievich Benjamin"
+            },
+            {
+                "Title": "Eviction Hearing",
+                "DateFiled": "04/23/2018",
+                "Description": null
+            },
+            {
+                "Title": "Motion to Dismiss Filed",
+                "DateFiled": "05/14/2018",
+                "Description": "Motion to dismiss without prejudice"
+            },
+            {
+                "Title": "Order Granting Motion to Dismiss",
+                "DateFiled": "05/14/2018",
+                "Description": "w/o prejudice"
+            },
+            {
+                "Title": "Automated Paper Notice Issued to Parties",
+                "DateFiled": "05/15/2018",
+                "Description": "Motion to Dismiss Filed ---- 5/14/2018 : Rebecca  Henderson\nOrder Granting Motion to Dismiss ---- 5/14/2018 : Rebecca  Henderson"
+            },
+            {
+                "Title": "Automated ENotice Issued to Parties",
+                "DateFiled": "05/15/2018",
+                "Description": "Motion to Dismiss Filed ---- 5/14/2018 : Mark Evgenievich Benjamin\nOrder Granting Motion to Dismiss ---- 5/14/2018 : Mark Evgenievich Benjamin"
+            }
+        ],
+        "Court": {
+            "Name": "Tippecanoe Superior Court 4",
+            "Judge": null
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "45D07-1704-IF-003531",
+            "Status": "Decided",
+            "Name": "State of Indiana vs. Blake H Bonds",
+            "Type": "IF - Infraction",
+            "DateFiled": "04/25/2017"
+        },
+        "Defendant": {
+            "Address": "636 KNOXBURY LN 1SCHERERVILLE, IN 46375",
+            "Name": "BONDS, BLAKE H",
+            "Description": "Male, Black, 5' 9\", 195 lbs."
+        },
+        "Plaintiff": {
+            "Title": "State of Indiana"
+        },
+        "Charge": [
+            {
+                "Name": "OPERATING WITH EXPIRED PLATES/IFC (Zone:0)",
+                "Degree": "CNV",
+                "Statute": "9-18.1-11-2(b)(2)",
+                "Date": "04/19/2017"
+            }
+        ],
+        "Event": [
+            {
+                "Title": "Converted Event",
+                "DateFiled": "04/25/2017",
+                "Description": "Declared IDP Eligible 3 Month Non Moving Deferral"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "04/25/2017",
+                "Description": "County Infraction Judgment $1 Fine. Charge #1: OPERATING WITH EXPIRED PLATES"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "04/25/2017",
+                "Description": "County Traffic Court Cost with TE &amp; IH Tickler CP. Charge #1: OPERATING WITH EXPIRED PLATES"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "05/01/2017",
+                "Description": "Notice of Ticket Entry Sent"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "05/04/2017",
+                "Description": "Attorney BENJAMIN, ALISON L representing Criminal / Traff Defendant BONDS, BLAKE H as of 05/04/2017"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "05/04/2017",
+                "Description": "Atty A. Benjamin Files appearance/Hrg set/Notified/hm\nEvent: INT.HRG/ARR \nDate: 07/25/2017 Time: 8:30 am \n\n\nResult: Vacated"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "07/03/2017",
+                "Description": "ST of IN moves to Dismiss, (H.I.): Granted. Cause Dismissed / cp / protem"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "07/07/2017",
+                "Description": "Order dated 06/23/17 received in Clerk's Office 07/03/17"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "07/10/2017",
+                "Description": "Case Dismissed."
+            },
+            {
+                "Title": "Judgment",
+                "DateFiled": "07/10/2017",
+                "Description": null
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "07/25/2017",
+                "Description": "Calendar: INT.HRG/ARR (Event Code: IA) (Result: Vacated) (Judge: Nicholas Schiralli (Traff/Crim)) (Time: 08:30:00)"
+            }
+        ],
+        "Court": {
+            "Name": "Lake Superior Court, County Division 1",
+            "Judge": null
+        }
+    },
+    {
+        "Case": {
+            "CaseNumber": "12D01-0809-CM-000403",
+            "Status": "Decided",
+            "Name": "State V Jesus Martinez",
+            "Type": "CM - Criminal Misdemeanor",
+            "DateFiled": "09/15/2008"
+        },
+        "Defendant": {
+            "Address": "6108 Georgetown Road, Apt. CIndianapolis, IN 46254",
+            "Name": "Martinez, Jesus",
+            "Description": null
+        },
+        "Plaintiff": {
+            "Title": "State of Indiana"
+        },
+        "Charge": [
+            {
+                "Name": "OPERATING A MOTOR VEHICLE WITHOUT EVER R-",
+                "Degree": "MC",
+                "Statute": "9-24-18-1(A)",
+                "Date": "08/28/2008"
+            },
+            {
+                "Name": "SPEEDING 16-25 OVER- 16-25 Over Speed:71 Speed Zone: 55",
+                "Degree": "IFC",
+                "Statute": "9-21-5-1",
+                "Date": "08/28/2008"
+            }
+        ],
+        "Event": [
+            {
+                "Title": "Converted Event",
+                "DateFiled": "09/15/2008",
+                "Description": "docket level comment: ISP"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "09/15/2008",
+                "Description": "Calendar: INITIAL HEARING (Time:  13:30:00) (Judge:  KS )"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "09/15/2008",
+                "Description": "Information for Operator Never Licensed &amp; Speeding 71/55 filed by the Statealong with affidavit. P.C. Appearance filed by Anthony Sommer for the State of Indiana, by General Order.  (RJO? N) | JTS Minute Entry Date: 09/15/2008"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "09/15/2008",
+                "Description": "State appears by Ms. Afflerbach.  Defendant appears in person.  Defendant is advised of, understands and waives his Constitutional rights; understands the charges and the possible penalties.  Defendant voluntarily enters plea of guilty and a sufficient factual basis is established to accept defendant's guilty plea.  IT IS ORDERED AND ADJUDGED by the Court  that the defendant is guilty and stands convicted of the crime, Operator Never Licensed and Speeding 71/55.  For Operator Never Licensed and Speeding 71/55, defendant is senteced to jail for 10 days; all executed. Defendant is assessed court costs.  Work release is authorized.  Defendant to report to the jail at 9:00 a.m. on September 30, 2008 to serve his  sentence.  Bond, less any fees, can be released to the defendant.  (DISPOSED: GP   ) (RJO? N) | JTS Minute Entry Date: 09/15/2008"
+            },
+            {
+                "Title": "Judgment",
+                "DateFiled": "09/16/2008",
+                "Description": null
+            },
+            {
+                "Title": "Judgment",
+                "DateFiled": "09/16/2008",
+                "Description": null
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "09/23/2008",
+                "Description": "Fax Appearance and Motion to Withdraw Guilty Plea Hearing filed by Leigia Rosales along with certificate of service.  (RJO? N) | JTS Minute Entry Date: 09/23/2008"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "09/26/2008",
+                "Description": "Fax Order signed setting cause for Hearing on Motion for 10-15-2008 at 1:00 p.m.  (RJO? N) | JTS Minute Entry Date: 09/26/2008"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "09/30/2008",
+                "Description": "Defendant's report date to serve 10 days in jail delayed pending hearing on defendant's motion.  CCSD advised (Rhonda)  (RJO? N) | JTS Minute Entry Date: 09/30/2008"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "10/14/2008",
+                "Description": "Fax filing of Motion for Emergency Continuance filed by defense counsel along with certificate of service.  (RJO? N) | JTS Minute Entry Date: 10/14/2008"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "10/15/2008",
+                "Description": "Calendar: MISC. MOTIONS (Time:  13:00:00) (Judge:  KS ) Hearing Code: (D)"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "10/22/2008",
+                "Description": "Order granted.  Hearing reset for 12/1/2008 at 9:30 a.m.  (RJO? N) | JTS Minute Entry Date: 10/20/2008"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "11/20/2008",
+                "Description": "Motion to Continue filed by defense counsel along with certificate of service.  (RJO? N) | JTS Minute Entry Date: 11/19/2008"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "11/26/2008",
+                "Description": "Court grants motion, cause reset for Hearing on Motion to Withdraw Guilty Plea set for 1-28-2009 at 2:00 p.m.  (RJO? N) | JTS Minute Entry Date: 11/20/2008"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "12/01/2008",
+                "Description": "Calendar: MISC. MOTIONS (Time:  09:30:00) (Judge:  KS ) Hearing Code: (D)"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "01/28/2009",
+                "Description": "Calendar: MISC. MOTIONS (Time:  14:00:00) (Judge:  KS ) Hearing Code: (D)"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "02/03/2009",
+                "Description": "Emergency Motion to Continue filed by defense counsel along with certificate of service.  (RJO? N) | JTS Minute Entry Date: 02/02/2009"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "02/11/2009",
+                "Description": "Court grants motion, cause now rescheduled for Hearing on Motion for 3-9-2009 at 2:00 p.m.  (RJO? N) | JTS Minute Entry Date: 02/06/2009"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "03/09/2009",
+                "Description": "Calendar: MISC. MOTIONS (Time:  14:00:00) (Judge:  KS )"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "03/09/2009",
+                "Description": "State appears by AJS; defendant appears in person and with counsel. Defense addresses the Court as to defendant's executed sentence.  Based upon discussions held, defense withdraw Motion.  Defendant is ordered to report for previously ordered sentence to CCJ on 4-28-2009 at 10:30 a.m.  (RJO? N) | JTS Minute Entry Date: 03/09/2009"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "01/29/2018",
+                "Description": "Clerk scans orders filed prior to 03/09/09.   dl  (RJO? N) | JTS Minute Entry Date: 01/29/2018"
+            },
+            {
+                "Title": "Converted Event",
+                "DateFiled": "01/29/2018",
+                "Description": "Clerk scans documents filed prior to 02/02/09.   dl  (RJO? N) | JTS Minute Entry Date: 01/29/2018"
+            }
+        ],
+        "Court": {
+            "Name": "Clinton Superior Court",
+            "Judge": null
+        }
+    }
+]

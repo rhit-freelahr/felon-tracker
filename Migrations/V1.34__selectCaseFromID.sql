@@ -1,0 +1,10 @@
+CREATE OR ALTER PROCEDURE selectCaseFromID(
+@ID int
+)
+AS 
+BEGIN
+ SELECT * 
+ FROM [Case]
+ WHERE [Case].ID = @ID;
+ RETURN 0;
+END

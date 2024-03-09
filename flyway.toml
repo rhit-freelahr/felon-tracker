@@ -1,0 +1,20 @@
+# More information on the parameters can be found here: https://documentation.red-gate.com/flyway/flyway-cli-and-api/configuration/parameters
+
+[environments.blomecj]
+url = "jdbc:sqlserver://golem.csse.rose-hulman.edu;databaseName=FelonTracker-blomecj;encrypt=false"
+
+[environments.freelahr]
+url = "jdbc:sqlserver://golem.csse.rose-hulman.edu;databaseName=FelonTracker-freelahr;encrypt=false"
+
+[environments.chalupmc]
+url = "jdbc:sqlserver://golem.csse.rose-hulman.edu;databaseName=FelonTracker-chalupmc;encrypt=false"
+
+[environments.integration]
+url = "jdbc:sqlserver://golem.csse.rose-hulman.edu;databaseName=FelonTracker-integration;encrypt=false"
+
+[environments.demo]
+url = "jdbc:sqlserver://golem.csse.rose-hulman.edu;databaseName=FelonTracker-Demo;encrypt=false"
+
+
+[flyway]
+locations = ["filesystem:Migrations"]
